@@ -1,11 +1,11 @@
 
 <!---
-smokystonebits/smokystonebits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bambibytes/bambibytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--- take this out of comments when you fix what image you want <html>
-    <img src="mollyhartlysvg.svg">
-</html> --->
+<html>
+    <img src="svg for github.svg">
+</html> 
 
 - 👋 Hi, I’m @bambibytes
 - 👀 I’m interested in learning to program & front-end development/UI
