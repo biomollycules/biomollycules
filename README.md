@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
     <img src="svg for github.svg">
 </html> 
 
-- 👋 Hi, I’m @bambibytes
+- 👋 Hi, I’m @mollymilkhoney
 - 👀 I’m interested in learning to program & front-end development/UI
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java, MIPS
 - 😄 Pronouns: She/Her/Hers
