@@ -2,10 +2,10 @@
 <!---
 bambibytes/bambibytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 <html>
-    <img src="svg for github.svg">
-</html> 
+    <img src="">
+</html> --->
 
 - 👋 Hi, I’m @mollymilkhoney
 - 👀 I’m interested in learning to program & front-end development/UI
