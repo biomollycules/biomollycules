@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
     <img src="">
 </html> --->
 
-## HEY! I'M MOLLY @ MOLLYMILKHONEY
+## HEY! I'M MOLLY @ MOLLYMILKHONEY 🕊️ 🧸 🦋
 ### CURRENTLY: LEARNING TO PROGRAM & STUDYING SOFTWARE ENGINEERING
 areas of interest: java, html, css, javascript<br>
 pronouns: she/her/hers<br>
