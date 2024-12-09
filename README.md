@@ -7,8 +7,9 @@ You can click the Preview link to take a look at your changes.
     <img src="">
 </html> --->
 
-- 👋 Hi, I’m @mollymilkhoney
-- 👀 I’m interested in learning to program & front-end development/UI
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Java, MIPS
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I have a blind 9 year old chihuahua 🐾
+## HEY! I'M MOLLY @ MOLLYMILKHONEY
+### CURRENTLY: LEARNING TO PROGRAM & STUDYING SOFTWARE ENGINEERING
+areas of interest: java, html, css, javascript
+pronouns: she/her/hers
+& spend most of my days with my blind 9 year old chihuahua 🐾
+
