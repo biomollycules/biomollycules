@@ -8,8 +8,12 @@ You can click the Preview link to take a look at your changes.
 </html> --->
 
 ## HEY! I'M MOLLY @ MOLLYMILKHONEY 🕊️ 🧸 🦋
-### CURRENTLY: LEARNING TO PROGRAM & STUDYING SOFTWARE ENGINEERING
-areas of interest: java, html, css, javascript<br>
-pronouns: she/her/hers<br>
-& spend most of my days with my blind 9 year old chihuahua 🐾<br>
+### (っ◔◡◔)っ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
+I am  a Software Engineer.<br>
+I am passionate about wearable technology and medical devices, <br>
+particularly programming and developing software or applications that powers these innovative solutions. <br>
+<br>
+My areas of interest include: <br>
+developing websites, desktop and mobile applications, medical technology devices, <br>
+wearable tech, and incorporating data through API.<Br>
 
