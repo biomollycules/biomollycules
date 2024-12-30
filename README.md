@@ -1,13 +1,13 @@
 
 <!---
-bambibytes/bambibytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mollymilkhoney/mollymilkhoney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 <html>
     <img src="">
 </html> --->
 
-## HEY! I'M MOLLY @ MOLLYMILKHONEY 🕊️ 🧸 🦋
+## HEY! I'M ☆ Molly @ MOLLYMILKHONEY
 ### (っ◔◡◔)っ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 I am  a Software Engineer.<br>
 I am passionate about wearable technology and medical devices, <br>
