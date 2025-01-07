@@ -9,11 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 ## HEY! I'M ☆ Molly @ MOLLYMILKHONEY
 ### (っ◔◡◔)っ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
-I am  a Software Engineer.<br>
-I am passionate about wearable technology and medical devices, <br>
-particularly programming and developing software or applications that powers these innovative solutions. <br>
+I am a Software Engineering student with a strong interest in Front-End Development and working toward becoming a Full Stack Engineer, Product Designer, or UX/UI Engineer.  <br>
 <br>
 My areas of interest include: <br>
-developing websites, desktop and mobile applications, medical technology devices, <br>
-wearable tech, and incorporating data through API.<Br>
+My areas of interest include developing websites, desktop and mobile applications, medical technology devices, wearable tech, and incorporating data through API. <Br>
 
