@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes. -->
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambistacks&langs_count=8) | <p align="left">Hi! I'm Molly :)<br> I'm a *software engineering* student @ University of Minnesota<br> I am focused on biotechnology & medical devices<br> Especially embedded systems in medical devices + wearable tech <br> Passionate about health, nutrition, + overall wellness<br> integrating these passions into my career brings me *fulfillment + balance* ॐ <br> </p> |
 |-------------------------|-------------------------|
+*GOALS* <br><br> ★ goal 1 <br> ★ goal 2 <br> ★ goal 3 <br>★ goal 4  | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ blah blah <br> ★ blah blah <br> ★ blah blah <br>
+
 
 
 *check out what I'm currently listening to at this very moment →* 
