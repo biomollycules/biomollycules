@@ -5,8 +5,10 @@ You can click the Preview link to take a look at your changes. -->
 
 <img src="softwareengineerbanner.png" alt="softwareengineer" width="100%"/>
 
+
 ## *first things first...*
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambistacks&langs_count=8) | <p align="left">Hi! I'm Molly :)<br> I'm a software engineering student @ University of Minnesota<br> blah blah blah</p> |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambistacks&langs_count=8) | <p align="left">Hi! I'm Molly :)<br> I'm a *software engineering* student @ University of Minnesota<br> I am focused on biotechnology & medical devices<br> Especially embedded systems in medical devices + wearable tech <br> Passionate about health, nutrition, + overall wellness<br> integrating these passions into my career brings me *fulfillment + balance* ॐ <br> </p> |
 |-------------------------|-------------------------|
 
 
