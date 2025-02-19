@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes. -->
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambistacks&langs_count=8&theme=tokyonight) | <p align="left">Hi! I'm Molly aka 𝖇 𝖆 𝖒 𝖇 𝖎 *s t a c k s* ☆<br> I'm a *software engineering* student @ University of Minnesota<br> I am focused on biotechnology & medical devices<br> Especially embedded systems in medical devices + wearable tech <br> Passionate about health, nutrition, + overall wellness<br> integrating these passions into my career brings me *fulfillment + balance* ॐ <br> </p> |
 |-------------------------|-------------------------|
-*GOALS* <br><br> ★ participate in medical research <br> ★ complete biotech field internship <br> ★ create a fitness app <br>★ goal 4  | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week <br> ★ started meditation + yoga to heal PTSD, now it's a lifestyle <br> ★ blah blah <br>
+*GOALS* <br><br> ★ participate in medical research <br> ★ complete biotech field internship <br> ★ create a fitness app <br>★ goal 4  | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week <br> ★ started meditation + yoga to heal PTSD, now it's a lifestyle <br> ★ I like to spend most of my time in the sun on a paddleboard, plus doing SUPyoga! <br>
 
 
 
