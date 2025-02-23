@@ -7,8 +7,7 @@ You can click the Preview link to take a look at your changes. -->
 
 ## *first things first...*
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=ff3399) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=ff3399)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=ff3399) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ff3399) 
+![C](https://img.shields.io/badge/C-Novice-ff3399) ![Python](https://img.shields.io/badge/Python-Novice-ff3399?logo=Python&logoColor=ff3399) ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-ff3399?logo=GitHub&logoColor=ff3399) ![HTML](https://img.shields.io/badge/HTML-Intermediate-ff3399) ![CSS](https://img.shields.io/badge/CSS-Intermediate-ff3399?logo=CSS&logoColor=ff3399) ![Linux](https://img.shields.io/badge/Linux-Novice-ff3399?logo=Linux&logoColor=ff3399)
 
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambistacks&langs_count=8&theme=tokyonight) | <p align="left">Hi! I'm Molly aka 𝖇 𝖆 𝖒 𝖇 𝖎 *s t a c k s* ☆<br> I'm a *software engineering* student @ University of Minnesota<br> I am focused on biotechnology & medical devices<br> especially embedded systems in medical devices + wearable tech <br> passionate about health, nutrition, + overall wellness<br> integrating these passions into my career brings me *fulfillment + balance* ॐ <br> </p> |
