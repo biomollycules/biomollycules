@@ -3,7 +3,7 @@
 bambistacks/bambistacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
 
-<img src="softwareengineerbanner.png" alt="softwareengineer" width="100%"/>
+<img src="softwareengineerbanner2.png" alt="softwareengineer" width="100%"/>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=7c6f86&width=435&lines=first+things+first...)](https://git.io/typing-svg)
 
