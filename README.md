@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes. -->
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biomollycules&langs_count=8&bg_color=c7c2cb&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Molly Gustafson<br> I'm a *Software Engineering* student @ University of Minnesota 2027<br> I have experience in Quality Control & Quality Assurance in Medical Devices<br> I'm focused on increasing my knowledge in Embedded Systems Engineering<br>As well as Software as a Medical Device + Smart Health Devices <br> </p> |
 |-------------------------|-------------------------|
-*GOALS* <br><br> ★ participate in medical research <br> ★ complete biomed field internship <br> ★ create a fitness app <br>★ goal 4 💭 | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week <br> ★ started meditation + yoga to heal PTSD, now it's a lifestyle <br> ★ spend most of my time in the sun on a paddleboard, SUPyoga! <br>
+*GOALS* <br><br> ★ Learn Raspberry Pi <br> ★ Collaborate on NPD <br> ★ Create a fitness IOS app <br>★ Travel to New Zealand | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week <br> ★ started meditation + yoga to heal PTSD, now it's a lifestyle <br> ★ spend most of my time in the sun on a paddleboard, SUPyoga! <br>
 
 
 
