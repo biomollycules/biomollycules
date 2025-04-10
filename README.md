@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes. -->
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=7c6f86&width=435&lines=first+things+first...)](https://git.io/typing-svg)
 
-![Java](https://img.shields.io/badge/Java-Novice-7c6f86) ![C](https://img.shields.io/badge/C-Novice-7c6f86) ![Python](https://img.shields.io/badge/Python-Novice-7c6f86?logo=Python&logoColor=c7c2cb) ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-7c6f86?logo=GitHub&logoColor=c7c2cb) ![Linux](https://img.shields.io/badge/Linux-Novice-7c6f86?logo=Linux&logoColor=c7c2cb)
+![Java](https://img.shields.io/badge/Java-Novice-7c6f86) ![C](https://img.shields.io/badge/C-Novice-7c6f86) ![Python](https://img.shields.io/badge/Python-Novice-7c6f86?logo=Python&logoColor=c7c2cb) ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-7c6f86?logo=GitHub&logoColor=c7c2cb) ![Linux](https://img.shields.io/badge/Linux-Novice-7c6f86?logo=Linux&logoColor=c7c2cb) ![MySQL](https://img.shields.io/badge/MySQL-Novice-7c6f86?logo=MySQL&logoColor=c7c2cb)
 
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmolly444x&langs_count=10&bg_color=c7c2cb&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Molly Gustafson<br> I'm a *Software Engineering* student @ University of Minnesota 2027<br> I have experience in quality assurance within regulated medical environments<br>I'm focused on DevOps, Cloud, EHR systems, AI, + Automation <br> Also interested in gaining knowledge in Embedded Systems<br> </p> |
