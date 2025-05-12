@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes. -->
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmolly444x&langs_count=20&bg_color=c7c2cb&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Molly Gustafson<br> I'm a *Software Engineering* student @ University of Minnesota 2027<br> I have experience in quality assurance within regulated medical environments<br>I'm focused on DevOps, Cloud, EHR systems, AI, + Automation <br> Also interested in gaining knowledge in Embedded Systems<br> </p> |
 |-------------------------|-------------------------|
-*GOALS* <br><br> ★ Learn Raspberry Pi <br> ★ Collaborate on NPD <br> ★ Create a fitness IOS app <br>★ Travel to New Zealand | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week <br> ★ started meditation + yoga to heal PTSD, now it's a lifestyle <br> ★ spend most of my time in the sun on a paddleboard, SUPyoga! <br>
+*GOALS* <br><br> ★ Travel the world <br> ★ Read 444 books <br> ★ Be financially secure <br>★ RELAX in the sun | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week <br> ★ started meditation + yoga to heal PTSD, now it's a lifestyle <br> ★ spend most of my time in the sun on a paddleboard, SUPyoga! <br>
 
 
 
