@@ -15,9 +15,4 @@ You can click the Preview link to take a look at your changes. -->
 
 [<p align="left">![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vvc2il62xv5jdpqgyoyk2h2psm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=fc0388&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=7c6f86&width=435&lines=lets+connect+on+socials...)](https://git.io/typing-svg)
-
-
-[<img src='https://i.postimg.cc/ryxZ1zkr/Platform-Linked-In-Color-Negative.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/yuccamango/)      [<img src='https://i.postimg.cc/QNQSBPQm/Platform-You-Tube-Color-Negative.png' alt='YouTube' height='40'>](https://www.youtube.com/@yuccamango)      [<img src='https://i.postimg.cc/HxQ0ycyJ/Platform-Pinterest-Color-Negative.png' alt='Pinterest' height='40'>](https://www.pinterest.com/yuccamango/_profile/)      [<img src='https://i.postimg.cc/Gtfp3zmM/Platform-Tik-Tok-Color-Negative.png' alt='TikTok' height='40'>](https://www.tiktok.com/@yuccmanago)      [<img src='https://i.postimg.cc/Wz1VkZHZ/Platform-Instagram-Color-Negative.png' alt='Instagram' height='40'>](https://www.instagram.com/yuccamango)   [<img src='https://i.postimg.cc/CKbnPyxM/Platform-Github-Color-Negative.png' alt='GitHub' height='40'>](https://www.github.com/yuccamango)
-
 
