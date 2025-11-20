@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes. -->
 
  ```python
  class AboutMe:
- 	user = '@biomollycules'
+ 	user = '@yuccamango'
 		current_status = 'Software Engineering Student'
 		hobbies = [
 				'Practicing Python',
