@@ -13,7 +13,21 @@ You can click the Preview link to take a look at your changes. -->
 |-------------------------|-------------------------|
 *GOALS* <br><br> ★ Travel the world <br> ★ Read 444 books <br> ★ 800 credit score <br>★ RELAX in the sun | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week, health is important to me <br> ★ started meditation + yoga to heal PTSD, now it's a lifestyle <br> ★ spend most of my time in the sun or on a paddleboard, SUPyoga! <br>
 
-
+ ```python
+ class AboutMe:
+ 	user = '@biomollycules'
+		current_status = 'Software Engineering Student'
+		hobbies = [
+				'Practicing Python',
+				'Snuggling my dog Jazz',
+				'Yoga & Meditation'
+				'Studying'
+			]
+	
+	def getCity():
+		return Minneapolis_Minnesota()
+	# going to edit this later to be less redundant from the bio above 
+ ```
 
 *check out what I'm currently listening to at this very moment →* 
 
