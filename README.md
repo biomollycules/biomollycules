@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes. -->
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biomollycules&langs_count=20&bg_color=c7c2cb&title_color=000000&text_color=000000) | <p align="left">Hi! I'm Molly Gustafson<br> I'm a Software Engineer,<br>I'm working toward my bachelors in SWE @ UMC.<br> I have completed a 530 hour Software Engineer Internship. <Br><br>Skills: <ul align="left"><li> Google Cloud Platform, Google Workspace, IAM Permissions</li> <li>Command Line Interface Integrations: Firebase CLI, Shopify CLI</li> <li>Visual Studio Code, WSL Ubuntu</li> <li>Software Development Life Cycle</li> <li>Front-End Development</li><li>Continuous Integration/Continuous Development</li> </ul> </p><p align="left"><br> Currently: Improving my logical python programming skills. <br> </p> |
 |-------------------------|-------------------------|
-*GOALS* <br><br> ★ Travel the world <br> ★ Read 444 books <br> ★ 800 credit score <br>★ RELAX in the sun | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week, health is important to me <br> ★ started meditation + yoga to heal PTSD, now it's a lifestyle <br> ★ spend most of my time in the sun or on a paddleboard, SUPyoga! <br>
+*GOALS* <br><br> ★ Read 444 books <br> ★ 800 credit score <br>★ RELAX in the sun | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week, health is important to me <br> ★ spend most of my time in the sun or on a paddleboard, SUPyoga! <br>
 
  ```python
  class AboutMe:
