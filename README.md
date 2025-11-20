@@ -11,25 +11,7 @@ You can click the Preview link to take a look at your changes. -->
 |-------------------------|-------------------------|
 *GOALS* <br><br> ★ Read 444 books <br> ★ 800 credit score <br>★ RELAX in the sun | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week, health is important to me <br> ★ spend most of my time in the sun or on a paddleboard, SUPyoga! <br>
 
- ```python
- class AboutMe:
- 	user = '@yuccamango'
-		current_status = 'Software Engineering Student'
-		hobbies = [
-				'Practicing Python',
-				'Snuggling my dog Jazz',
-				'Yoga & Meditation'
-				'Studying'
-			]
-	
-	def getCity():
-		return Minneapolis_Minnesota()
-	# going to edit this later to be less redundant from the bio above 
- ```
-
 *check out what I'm currently listening to at this very moment →* 
-
-
 
 [<p align="left">![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vvc2il62xv5jdpqgyoyk2h2psm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=fc0388&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
