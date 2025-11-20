@@ -4,8 +4,6 @@ yuccamango/yuccamango is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes. -->
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=7c6f86&width=435&lines=first+things+first...)](https://git.io/typing-svg)
-
 ![Python](https://img.shields.io/badge/Python-Novice-7c6f86?logo=Python&logoColor=c7c2cb) ![Linux](https://img.shields.io/badge/Linux-Intermediate-7c6f86?logo=Linux&logoColor=c7c2cb) ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-7c6f86?logo=GitHub&logoColor=c7c2cb) ![MySQL](https://img.shields.io/badge/MySQL-Novice-7c6f86?logo=MySQL&logoColor=c7c2cb) ![Figma](https://img.shields.io/badge/Figma-Intermediate-7c6f86?logo=Figma&logoColor=c7c2cb) ![REACT](https://img.shields.io/badge/REACT-novice-7c6f86?logo=REACT&logoColor=c7c2cb) 
 
 
