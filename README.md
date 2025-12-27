@@ -1,6 +1,6 @@
 
 <!---
-yuccamango/yuccamango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+chr0memango/chr0memango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
 
 
